@@ -2,6 +2,7 @@
 Acknowledgememnt - 
 
 I have used the work of Mihir M Gandhi for the purpose of extending my project. 
+Please checkout his work. It can act as a good tutorial to pygames and mathematical modelling of ccomplex systems. Link for that is here- 
 https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer
 
 License - 
